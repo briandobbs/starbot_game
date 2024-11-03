@@ -1,0 +1,18 @@
+{
+  "name": "starbot_game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Brian Dobbs",
+  "license": "ISC",
+  "description": "Starbot and their journey to expand humanities reach into the stars.",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^5.6.3"
+  }
+}
